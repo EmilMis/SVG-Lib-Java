@@ -1,6 +1,4 @@
-package EmilMissoni.SVG;
-
-import EmilMissoni.SVG.Utils.*;
+import SVG.Utils.*;
 
 import java.io.IOException;
 import java.util.Random;
