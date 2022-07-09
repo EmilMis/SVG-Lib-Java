@@ -1,7 +1,5 @@
-package EmilMissoni.SVG.Utils;
-
-import EmilMissoni.SVG.Utils.Position;
-import EmilMissoni.SVG.Utils.RGB;
+import SVG.Utils.Position;
+import SVG.Utils.RGB;
 
 public class LineGenerator {
 
