@@ -1,5 +1,3 @@
-package EmilMissoni.SVG.Utils;
-
 import java.io.File;
 import java.io.FileWriter;
 import java.io.IOException;
