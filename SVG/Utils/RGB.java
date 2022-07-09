@@ -1,5 +1,3 @@
-package EmilMissoni.SVG.Utils;
-
 import java.util.Random;
 
 public class RGB {
