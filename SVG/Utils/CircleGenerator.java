@@ -1,4 +1,4 @@
-package EmilMissoni.SVG.Utils;
+package SVG.Utils;
 
 public class CircleGenerator {
     public CircleGenerator(){
